@@ -2,6 +2,8 @@
 
 # 永恒令时间无限延展，梦想使每一个刻度都熠熠生辉
 
+## ​我梦见一片焦土，​一株破土而生的新蕊，​它迎着朝阳绽放，​向我低语呢喃
+
 ### Welcome to visit my profile 👋
 
 ### I'm currently learning unity and c#
