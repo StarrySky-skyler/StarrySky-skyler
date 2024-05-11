@@ -14,7 +14,7 @@ I'm currently learning C# | Unity | Python
 
 I plan to master VR game development and learn AI related content so that I can combine the two.
 
-Of course, it would be best to make a game like SAO.:electron:
+Of course, it would be best to make a game like SAO. :electron:
 
 ### Profile views
 
