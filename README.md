@@ -18,7 +18,7 @@ Of course, it would be best to make a game like SAO. :electron:
 
 ### Profile Views
 
-[![Profile views image](https://starry-trace-sky-moe-counter.vercel.app/get/@starry-trace-sky-profile?theme=gelbooru-h)](https://github.com/StarrySky-skyler)
+[![Profile views image](https://starry-trace-sky-moe-counter.vercel.app/get/@starry-trace-sky-profile?theme=rule34)](https://github.com/StarrySky-skyler)
 
 ### Others
 
