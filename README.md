@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=StarrySky-skyler&color=blueviolet&style=for-the-badge)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarrySky-skyler&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarrySky-skyler&layout=donut&langs_count=5)
 
 ![星痕Sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarrySky-skyler&count_private=true&show_icons=true&theme=tokyonight)
 
