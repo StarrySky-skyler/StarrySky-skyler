@@ -16,9 +16,11 @@ I plan to master VR game development and learn AI related content so that I can 
 
 Of course, it would be best to make a game like SAO. :electron:
 
-### Profile views
+### Profile Views
 
 [![Profile views image](https://starry-trace-sky-moe-counter.vercel.app/get/@starry-trace-sky-profile?theme=gelbooru-h)](https://github.com/StarrySky-skyler)
+
+### Others
 
 ![Top Langs](https://starry-trace-sky-readme-stats.vercel.app/api/top-langs/?username=StarrySky-skyler&layout=donut&langs_count=5)
 
