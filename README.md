@@ -10,6 +10,8 @@ Hi, there.🌸 I'm a student studying in high school.📘 And I like VR game dev
 
 I'm currently learning C# | Unity | Python
 
+[📖My Notion notes](https://starrytracesky.notion.site/7e3caef527f142f0bf15b2d933563425?pvs=4 "Notion notes")
+
 # Plans
 
 I plan to master VR game development and learn AI related content so that I can combine the two.
