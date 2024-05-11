@@ -4,11 +4,21 @@
 
 > 音无结弦之日，跃动天使之心，立于浮华之世，奏响天籁之音。
 
-### Welcome to visit my profile 👋
+# Introduction
 
-### I'm currently learning C# | Unity | Python
+Hi, there.🌸 I'm a student studying in high school.📘 And I like VR game development best!❤️
 
-![](https://komarev.com/ghpvc/?username=StarrySky-skyler&color=blueviolet&style=for-the-badge)
+I'm currently learning C# | Unity | Python
+
+# Plans
+
+I plan to master VR game development and learn AI related content so that I can combine the two.
+
+Of course, it would be best to make a game like SAO.:electron:
+
+### Profile views
+
+[![Profile views image](https://starry-trace-sky-moe-counter.vercel.app/get/@starry-trace-sky-profile?theme=gelbooru-h)](https://github.com/StarrySky-skyler)
 
 ![Top Langs](https://starry-trace-sky-readme-stats.vercel.app/api/top-langs/?username=StarrySky-skyler&layout=donut&langs_count=5)
 
