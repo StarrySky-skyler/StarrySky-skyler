@@ -1,8 +1,10 @@
 ![](cover.jpg)
 
-> 永恒令时间无限延展，梦想使每一个刻度都熠熠生辉
+English | [中文(简体)](https://github.com/StarrySky-skyler/StarrySky-skyler/README_zh_cn.md)
 
-> 音无结弦之日，跃动天使之心，立于浮华之世，奏响天籁之音。
+> Eternity extends time infinitely, and dreams make every moment shine.
+
+> On the day when the sound is silent, the hearts of angels jump, standing in the glitzy world, playing the sound of nature.
 
 # Introduction
 
