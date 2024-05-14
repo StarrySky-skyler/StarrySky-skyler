@@ -1,6 +1,6 @@
 ![](cover.jpg)
 
-[English](https://github.com/StarrySky-skyler/StarrySky-skyler/README.md) | 中文(简体)
+[English](https://github.com/StarrySky-skyler/StarrySky-skyler/blob/main/README.md) | 中文(简体)
 
 > 永恒令时间无限延展，梦想使每一个刻度都熠熠生辉
 
