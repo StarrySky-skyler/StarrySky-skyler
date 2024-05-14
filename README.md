@@ -1,6 +1,6 @@
 ![](cover.jpg)
 
-English | [中文(简体)](https://github.com/StarrySky-skyler/StarrySky-skyler/README_zh_cn.md)
+English | [中文(简体)](https://github.com/StarrySky-skyler/StarrySky-skyler/blob/main/README_zh_cn.md)
 
 > Eternity extends time infinitely, and dreams make every moment shine.
 
