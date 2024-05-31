@@ -6,7 +6,7 @@
 
 Contact me:
 
-[Twitter](https://x.com/starrysky_fy) | Discord username: `starrysky_skyler_45707`
+[Twitter](https://x.com/starrysky_fy) | Discord: `starrysky_skyler_45707`
 
 # Introduction
 
