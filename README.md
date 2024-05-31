@@ -4,6 +4,10 @@
 
 > On the day when the sound is silent, the hearts of angels jump, standing in the glitzy world, playing the sound of nature.
 
+Contact me:
+
+[Twitter](https://x.com/starrysky_fy) | Discord username: starrysky_skyler_45707
+
 # Introduction
 
 Hi, there.🌸 I'm a student studying in high school.📘 And I like VR game development best!❤️
