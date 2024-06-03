@@ -10,9 +10,11 @@ Contact me:
 
 # Introduction
 
-Hi, there.🌸 I'm a student studying in high school.📘 And I like VR game development best!❤️
+Hi. I'm a student studying in high school.📘 
 
-I'm currently learning C# | Unity | Python
+- 🎮Like VR game development best!
+- Currently learning C# | Unity | Python
+- Interested in VR | Unity | Unreal | stable diffusion | GPT-Sovits | ACG
 
 [📖My Notion notes](https://starrytracesky.notion.site/7e3caef527f142f0bf15b2d933563425?pvs=4 "Notion notes")
 
@@ -26,10 +28,14 @@ Of course, it would be best to make a game like SAO. :electron:
 
 [![Profile views image](https://starry-trace-sky-moe-counter.vercel.app/get/@starry-trace-sky-profile?theme=rule34)](https://github.com/StarrySky-skyler)
 
-### Others
+### Top Languages
 
 ![Top Langs](https://starry-trace-sky-readme-stats.vercel.app/api/top-langs/?username=StarrySky-skyler&layout=donut&langs_count=5)
 
+### Github Stats
+
 ![星痕Sky's GitHub stats](https://starry-trace-sky-readme-stats.vercel.app/api?username=StarrySky-skyler&count_private=true&show_icons=true&theme=tokyonight)
+
+### Github Streak
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StarrySky-skyler&theme=tokyonight)
