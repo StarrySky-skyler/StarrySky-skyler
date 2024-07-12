@@ -19,7 +19,7 @@
 
 [📖我的环境配置Notion笔记](https://starrytracesky.notion.site/7e3caef527f142f0bf15b2d933563425?pvs=4 "Notion notes")
 
-# 未来畅想（We just need to imagine freely）
+# 未来畅想（We Just Need To Imagine Freely）
 
 唔，想融合AI，二次元到游戏开发中，以及更多元素！
 
