@@ -1,41 +1,44 @@
 ![](cover.jpg)
 
-> Eternity extends time infinitely, and dreams make every moment shine.
+> 永恒令时间无限延展，梦想使每一个刻度都熠熠生辉。      ----雷电真《原神》
 
-> On the day when the sound is silent, the hearts of angels jump, standing in the glitzy world, playing the sound of nature.
+> 世间存在一种羁绊。我的生命中的每一点都通过这种羁绊彼此相连。这种羁绊就在那里，我们只需要天马行空般地去想象。      ----Peter Handke
 
-Contact me:
 
-[Twitter](https://x.com/starrysky_fy)
+联系:
 
-# Introduction
+[Twitter（X）](https://x.com/starrysky_fy)
 
-Hi. I'm a student graduated from high school recently.📘 
+邮件：xiaoyuesun915@gmail.com
 
-- 🎮Like VR game development best!
-- Currently learning C# | Unity | Python
-- Interested in VR | Unity | Unreal | stable diffusion | GPT-Sovits | ACG
+# 自述（诶嘿）
 
-[📖My Notion notes](https://starrytracesky.notion.site/7e3caef527f142f0bf15b2d933563425?pvs=4 "Notion notes")
+作为一枚中二且刚高考完的INFJ📘 
 
-# Plans
+- 🎮非常喜欢游戏开发，如果是VR就最好啦
+- 目前正在学习 C# | Unity | Python
+- 热衷于研究 VR | Unity | Unreal | stable diffusion | GPT-Sovits | ACG
 
-I plan to master VR game development and learn AI related content so that I can combine the two.
+[📖我的环境配置Notion笔记](https://starrytracesky.notion.site/7e3caef527f142f0bf15b2d933563425?pvs=4 "Notion notes")
 
-Of course, it would be best to make a game like SAO. :electron:
+# 未来畅想
 
-### Profile Views
+唔，想融合AI，二次元到游戏开发中，以及更多元素！
+
+如果可能的话，做个SAO也是非常棒的 :electron:
+
+### 个人资料访问计数器
 
 [![Profile views image](https://starry-trace-sky-moe-counter.vercel.app/get/@starry-trace-sky-profile?theme=rule34)](https://github.com/StarrySky-skyler)
 
-### Top Languages
+### 仓库编程语言统计
 
 ![Top Langs](https://starry-trace-sky-readme-stats.vercel.app/api/top-langs/?username=StarrySky-skyler&layout=donut&langs_count=5)
 
-### Github Stats
+### Github Stats统计
 
 ![星痕Sky's GitHub stats](https://starry-trace-sky-readme-stats.vercel.app/api?username=StarrySky-skyler&count_private=true&show_icons=true&theme=tokyonight)
 
-### Github Streak
+### Github Streak统计
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StarrySky-skyler&theme=tokyonight)
