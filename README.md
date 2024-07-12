@@ -5,9 +5,7 @@
 > 世间存在一种羁绊。我的生命中的每一点都通过这种羁绊彼此相连。这种羁绊就在那里，我们只需要天马行空般地去想象。      ----Peter Handke
 
 
-联系:
-
-[Twitter（X）](https://x.com/starrysky_fy)
+联系: [Twitter（X）](https://x.com/starrysky_fy)
 
 邮件：xiaoyuesun915@gmail.com | starrytracesky@outlook.com
 
