@@ -10,7 +10,7 @@ Contact me:
 
 # Introduction
 
-Hi. I'm a student studying in high school.📘 
+Hi. I'm a student graduated from high school recently.📘 
 
 - 🎮Like VR game development best!
 - Currently learning C# | Unity | Python
