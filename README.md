@@ -9,7 +9,7 @@
 
 [Twitter（X）](https://x.com/starrysky_fy)
 
-邮件：xiaoyuesun915@gmail.com
+邮件：xiaoyuesun915@gmail.com | starrytracesky@outlook.com
 
 # 自述（诶嘿）
 
