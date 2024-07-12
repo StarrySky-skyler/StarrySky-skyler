@@ -21,24 +21,24 @@
 
 [📖我的环境配置Notion笔记](https://starrytracesky.notion.site/7e3caef527f142f0bf15b2d933563425?pvs=4 "Notion notes")
 
-# 未来畅想
+# 未来畅想（We just need to imagine freely）
 
 唔，想融合AI，二次元到游戏开发中，以及更多元素！
 
 如果可能的话，做个SAO也是非常棒的 :electron:
 
-### 个人资料访问计数器
+### ACG 计数器
 
 [![Profile views image](https://starry-trace-sky-moe-counter.vercel.app/get/@starry-trace-sky-profile?theme=rule34)](https://github.com/StarrySky-skyler)
 
-### 仓库编程语言统计
+### 使用的编程语言排行
 
 ![Top Langs](https://starry-trace-sky-readme-stats.vercel.app/api/top-langs/?username=StarrySky-skyler&layout=donut&langs_count=5)
 
-### Github Stats统计
+### Github Stats 统计
 
 ![星痕Sky's GitHub stats](https://starry-trace-sky-readme-stats.vercel.app/api?username=StarrySky-skyler&count_private=true&show_icons=true&theme=tokyonight)
 
-### Github Streak统计
+### Github Streak 统计
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StarrySky-skyler&theme=tokyonight)
