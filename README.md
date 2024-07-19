@@ -22,6 +22,7 @@
 # 未来畅想（We Just Need To Imagine Freely）
 
 唔，想融合AI，二次元到游戏开发中，以及更多元素！
+讲述一个好故事，治愈系！
 
 如果可能的话，做个SAO也是非常棒的 :electron:
 
