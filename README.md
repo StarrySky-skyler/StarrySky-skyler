@@ -17,7 +17,7 @@
 - 目前正在学习 C# | Unity | Python
 - 热衷于研究 VR | Unity | Unreal | stable diffusion | GPT-Sovits | ACG
 
-[📖我的环境配置Notion笔记](https://starrytracesky.notion.site/7e3caef527f142f0bf15b2d933563425?pvs=4 "Notion notes")
+[📖我的Notion笔记](https://starrytracesky.notion.site/That-World-1ea5e9d8b4b04d0888db741d8014b091?pvs=4 "Notion notes")
 
 # 未来畅想（We Just Need To Imagine Freely）
 
