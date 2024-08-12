@@ -9,6 +9,8 @@
 
 邮件：xiaoyuesun915@gmail.com | starrytracesky@outlook.com
 
+博客园：[https://www.cnblogs.com/starrysky-skyler](https://www.cnblogs.com/starrysky-skyler)
+
 # 自述（诶嘿）
 
 作为一枚中二且刚高考完的INFJ📘 
