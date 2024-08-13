@@ -9,8 +9,6 @@
 
 邮件：xiaoyuesun915@gmail.com | starrytracesky@outlook.com
 
-博客园：[https://www.cnblogs.com/starrysky-skyler](https://www.cnblogs.com/starrysky-skyler)
-
 # 自述（诶嘿）
 
 作为一枚中二且刚高考完的INFJ📘 
@@ -20,6 +18,8 @@
 - 热衷于研究 VR | Unity | Unreal | stable diffusion | GPT-Sovits | ACG
 
 [📖我的Notion笔记](https://starrytracesky.notion.site/That-World-1ea5e9d8b4b04d0888db741d8014b091?pvs=4 "Notion notes")
+
+[📖我的博客](https://www.cnblogs.com/starrysky-skyler)
 
 # 未来畅想（We Just Need To Imagine Freely）
 
