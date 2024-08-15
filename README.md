@@ -11,11 +11,12 @@
 
 # 自述（诶嘿）
 
-作为一枚中二且刚高考完的INFJ📘 
+作为一枚中二的大学INFJ📘 
 
 - 🎮非常喜欢游戏开发，如果是VR就最好啦
-- 目前正在学习 C# | Unity | Python
-- 热衷于研究 VR | Unity | Unreal | stable diffusion | GPT-Sovits | ACG
+- 目前正在学习 C# | C++/C | Unity | Unreal | Godot
+- 热衷于研究 VR | Unity | Unreal | stable diffusion | ACG
+- 很想尝试绘画之类的
 
 [📖我的Notion笔记](https://starrytracesky.notion.site/That-World-1ea5e9d8b4b04d0888db741d8014b091?pvs=4 "Notion notes")
 
