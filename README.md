@@ -33,14 +33,8 @@
 
 [![Profile views image](https://starry-trace-sky-moe-counter.vercel.app/get/@starry-trace-sky-profile?theme=rule34)](https://github.com/StarrySky-skyler)
 
-### 使用的编程语言排行（为什么C#不是第一位啊喂）
 
 ![Top Langs](https://starry-trace-sky-readme-stats.vercel.app/api/top-langs/?username=StarrySky-skyler&layout=donut&langs_count=5)
 
-### Github Stats 统计
-
 ![星痕Sky's GitHub stats](https://starry-trace-sky-readme-stats.vercel.app/api?username=StarrySky-skyler&count_private=true&show_icons=true&theme=tokyonight)
-
-### Github Streak 统计
-
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StarrySky-skyler&theme=tokyonight)
