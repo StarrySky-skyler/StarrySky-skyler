@@ -9,7 +9,7 @@
 
 邮件：xiaoyuesun915@gmail.com | starrytracesky@outlook.com
 
-# 自述（诶嘿）
+# 自述（唔哇）
 
 作为一枚中二的大学INFJ📘 
 
