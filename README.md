@@ -18,6 +18,8 @@
 - 热衷于研究 VR | Unity | Unreal | stable diffusion | ACG
 - 很想尝试绘画之类的
 
+[📖我的 Notion 笔记](https://starrytracesky.notion.site/That-World-1ea5e9d8b4b04d0888db741d8014b091?pvs=4)
+
 [📖我的博客](https://www.cnblogs.com/starrysky-skyler)
 
 # 未来畅想（We Just Need To Imagine Freely）
