@@ -13,7 +13,7 @@
 
 作为一枚中二的大学INFJ📘 
 
-- 🎮极度沉迷游戏开发，VR, BCI！
+- 🎮极度沉迷二次元，游戏开发，MR, BCI！
 - 天天泡在（bushi） Unity&C# | Unreal&C++ | AI | ACGN | 胡思乱想与绘画
 
 [📖我的 Notion 笔记](https://starrytracesky.notion.site/1ea5e9d8b4b04d0888db741d8014b091?pvs=4)
