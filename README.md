@@ -15,7 +15,7 @@
 
 # 自述（wink~）
 
-作为一枚中二的大学INFJ📘 
+作为一枚中二的大学INFP📘 
 
 - 🎮极度沉迷二次元，游戏开发，MR, BCI！
 - 天天泡在（bushi） Unity&C# | Unreal&C++ | AI | ACGN | 幻想与绘画
