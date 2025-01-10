@@ -18,7 +18,7 @@
 作为一枚中二的大学INFP📘 
 
 - 🎮极度沉迷二次元，游戏开发，MR, BCI！
-- 天天泡在（bushi） Unity&C# | Unreal&C++ | AI | ACGN | 幻想与绘画
+- 天天泡在（bushi） 幻想 | 写作 | 绘画 | Unity | Unreal | AI | ACGN
 
 [📖「星盘」Notion博客](https://starrytracesky.notion.site/Homepage-4cd503db11df423aab7b8bb4596057c4?pvs=4)
 
