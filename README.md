@@ -40,4 +40,4 @@
 ![Top Langs](https://starry-trace-sky-readme-stats.vercel.app/api/top-langs/?username=StarrySky-skyler&layout=donut&langs_count=5)
 
 ![星痕Sky's GitHub stats](https://starry-trace-sky-readme-stats.vercel.app/api?username=StarrySky-skyler&count_private=true&show_icons=true&theme=tokyonight)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StarrySky-skyler&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats-seven-nu.vercel.app/?user=StarrySky-skyler&theme=tokyonight)
