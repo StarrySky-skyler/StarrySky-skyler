@@ -20,7 +20,7 @@
 - 🎮极度沉迷二次元，游戏开发，MR, BCI！
 - 天天泡在（bushi） 幻想 | 写作 | 绘画 | Unity | Unreal | AI | ACGN
 
-[📖「Notes」星途-Notion笔记](https://starrytracesky.notion.site/Notes-1ea5e9d8b4b04d0888db741d8014b091?pvs=4)
+[📖「Notes」星途-Notion笔记](https://yumihoshi.notion.site/Notes-1ea5e9d8b4b04d0888db741d8014b091?pvs=4)
 
 # 未来畅想（We Just Need To Imagine Freely）
 
