@@ -37,7 +37,7 @@
 [![Profile views image](https://starry-trace-sky-moe-counter.vercel.app/get/@starry-trace-sky-profile?theme=rule34)](https://github.com/StarrySky-skyler)
 
 
-![Top Langs](https://starry-trace-sky-readme-stats.vercel.app/api/top-langs/?username=StarrySky-skyler&layout=donut&langs_count=5)
+![Top Langs](https://starry-trace-sky-readme-stats.vercel.app/api/top-langs/?username=Yumihoshi&layout=donut&langs_count=5)
 
-![星痕Sky's GitHub stats](https://starry-trace-sky-readme-stats.vercel.app/api?username=StarrySky-skyler&count_private=true&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats-seven-nu.vercel.app/?user=StarrySky-skyler&theme=tokyonight)
+![星痕Sky's GitHub stats](https://starry-trace-sky-readme-stats.vercel.app/api?username=Yumihoshi&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats-seven-nu.vercel.app/?user=Yumihoshi&theme=tokyonight)
