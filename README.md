@@ -24,6 +24,8 @@
 
 # 游戏开发理念（We Just Need To Imagine Freely）
 
+![](Screenshot_2025-02-10_19-39-37.png)
+
 > [!TIP]
 > ✨ 情感至上，游戏是诗
 >
