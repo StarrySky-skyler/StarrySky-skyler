@@ -13,7 +13,7 @@
 
 邮件：xiaoyuesun915@gmail.com | starrytracesky@outlook.com
 
-# 自述（wink~）
+## 🔯自述（wink~）
 
 作为一枚中二的大学INFP📘 
 
@@ -22,9 +22,11 @@
 
 [📖「Notes」星途-Notion笔记](https://yumihoshi.notion.site/Notes-1ea5e9d8b4b04d0888db741d8014b091?pvs=4)
 
-# 游戏开发理念（We Just Need To Imagine Freely）
+## 🧋游戏开发理念
 
 ![](Screenshot_2025-02-10_19-39-37.png)
+
+> We just need to imagine freely(!)
 
 > [!TIP]
 > ✨ 情感至上，游戏是诗
@@ -42,7 +44,7 @@
 > 嘻嘻~
 
 
-### ACG 计数器
+### 💮ACG 计数器
 
 [![Profile views image](https://starry-trace-sky-moe-counter.vercel.app/get/@starry-trace-sky-profile?theme=rule34)](https://github.com/StarrySky-skyler)
 
